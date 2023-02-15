@@ -8,7 +8,7 @@ Through hands-on projects, you’ll gain essential data science skills scaling m
 
 In addition to earning a Professional Certificate from Coursera, you will also receive a digital badge from IBM recognizing your proficiency in AI engineering. 
 
-#Applied Learning Project:
+# Applied Learning Project:
 
 Throughout the program, you will build a portfolio of projects demonstrating your mastery of course topics. The hands-on projects will give you a practical working knowledge of Machine Learning libraries and Deep Learning frameworks such as SciPy, ScikitLearn, Keras, PyTorch, and Tensorflow. You will also complete an in-depth Capstone Project, where you’ll apply your AI and Neural Network skills to a real-world challenge and demonstrate your ability to communicate project outcomes. 
 
