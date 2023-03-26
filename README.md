@@ -1,4 +1,4 @@
-# IBM AI Engineering Professional Certificate
+# IBM AI Engineering Professional Certificate - ONGOING!
 
 Artificial intelligence (AI) is revolutionizing entire industries, changing the way companies across sectors leverage data to make decisions. To stay competitive, organizations need qualified AI engineers who use cutting-edge methods like machine learning algorithms and deep learning neural networks to provide data driven actionable intelligence for their businesses. This 6-course Professional Certificate is designed to equip you with the tools you need to succeed in your career as an AI or ML engineer.  
 
